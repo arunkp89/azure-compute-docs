@@ -8,7 +8,7 @@ ms.subservice: redhat
 ms.custom: devx-track-azurecli, linux-related-content, devx-track-azurepowershell
 ms.collection: linux
 ms.topic: concept-article
-ms.date: 10/23/2024
+ms.date: 03/01/2026
 ms.author: cynthn
 # Customer intent: As a cloud administrator, I want to provision Red Hat Enterprise Linux Gold Images using my existing subscription on Azure, so that I can manage costs while maintaining compliance and support for my cloud-based workloads.
 ---
